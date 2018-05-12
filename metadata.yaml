@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1992
     wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38918#Vignettes-of-Manhattan--Outlines-in-Local-Color
 gutenberg_issued: '2012-02-18'
 gutenberg_type: Text
 identifiers:
