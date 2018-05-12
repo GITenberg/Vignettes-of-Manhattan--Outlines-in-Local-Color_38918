@@ -1,0 +1,58 @@
+_repo: Vignettes-of-Manhattan--Outlines-in-Local-Color_38918
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Brownell, W. C. (William Crary)
+    alias: Brownell, William Crary
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '7247'
+    url: http://www.gutenberg.org/2009/agents/7247
+  illustrator:
+    agent_name: Smedley, W. T. (William Thomas)
+    aliases:
+    - Smedley, William Thomas
+    - Smedley, W.T.
+    birthdate: 1858
+    deathdate: 1920
+    gutenberg_agent_id: '26043'
+    url: http://www.gutenberg.org/2009/agents/26043
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Matthews, Brander
+    aliases:
+    - Matthews, James Brander
+    - Matthews, J. Brander (James Brander)
+    - Penn, Arthur
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+description: ''
+gutenberg_issued: '2012-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'Manhattan (New York, N.Y.) -- Fiction'
+- !lcc 'PS'
+tableOfContents: 'Vignettes of Manhattan: In the little church down the street. The
+  twenty-ninth of February. At a private view. Spring in a side street. A Decoration-Day
+  revery. In search of local color. Before the break of day. A midsummer midnight.
+  A vista in Central Park. The speech of the evening. A Thanksgiving-Day dinner. In
+  the midst of life -- Outlines in local color: An interview with Miss Marlenspuyk.
+  A letter of farewell. A glimpse of the under world. A Wall Street wooing. A spring
+  flood in Broadway. The vigil of Mcdowell Sutro. An irrepressible conflict. The solo
+  orchestra. The rehearsal of the new play. A candle in the plate. Men and women and
+  horses. In the watches of the night.'
+title: Vignettes of Manhattan; Outlines in Local Color
+url: http://www.gutenberg.org/ebooks/38918
